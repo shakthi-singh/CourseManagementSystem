@@ -1,0 +1,8 @@
+com/example/model/Student.class
+com/example/model/CourseMark.class
+com/example/App.class
+com/example/DataUtil.class
+com/example/model/CourseMarkKey.class
+com/example/model/Person.class
+com/example/model/Professor.class
+com/example/model/Course.class
