@@ -23,7 +23,7 @@ To ensure consistency across environments, a development container has been prov
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 - `src/` - Java source code (uses Hibernate/JPA)
 - `submit/` - Submit your `.pdf` write-up, `.csv` data files, and additional deliverables here
 - `database.mdb` - MS Access database file
@@ -31,22 +31,13 @@ To ensure consistency across environments, a development container has been prov
 
 ---
 
-## ✅ Submission Guidelines  
-- Submit all modified code via your GitHub Classroom repository.
-- Include your `.pdf` with written answers in the `submit/` folder.
-- Save data outputs as `.csv` files, also in the `submit/` folder.
-- Cite any external code (multi-line) with proper comments above.
+## Outline
+- `.pdf` with written answers in the `submit/` folder.
+- Data outputs saved as `.csv` files, also in the `submit/` folder.
 
 ---
 
-## 🧪 Grading Criteria  
-1. **Functionality & Code Quality**: Original, readable, efficient, and well-documented code.
-2. **Write-up**: Clear, accurate answers in the `.pdf`.
-3. **Data Results**: Correct and properly formatted `.csv` files.
-
----
-
-## 📘 Assignment Tasks
+## Assignment Tasks
 
 ### 1. Exploring the CMS  
 Familiarize yourself with the existing Java-Hibernate setup.
@@ -93,14 +84,14 @@ Implement the following SQL-based queries as functions in `DataUtil.java`. Outpu
 
 ---
 
-## 💡 Notes
+## Notes
 - Java and SQL integration is handled via Hibernate/JPA.
 - Queries should be testable from the `main()` method.
 - Ensure your CSVs include headers and follow the naming convention strictly.
 
 ---
 
-## 🔗 References
+## References
 - [Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers)
 - [Hibernate/JPA Guide](https://www.baeldung.com/learn-jpa-hibernate)
 
